@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(156, 156, 156);  
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(8, 63, 145, 0.514) ;
+    font-size: 3rem;
+    text-decoration: underline;
+    
+}
+
+img{
+    width: 700px;
+    height: 350px;
+}
+
+
+.parrafo{
+    text-align: center;
+    font-size: large;
+}
+
+.parrafo2{
+    text-align: start;
+    font-size: large;
+    line-height: 30px;
+}
+
+h2{
+    font-size: 2rem;
+    text-decoration: underline;
+    color:rgba(8, 63, 145, 0.514);
+
+}
+
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    
+}
+
+
